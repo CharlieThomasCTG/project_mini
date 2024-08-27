@@ -1,4 +1,4 @@
-user_id,total_purchase_value_inApp,total_purchases_inApp,first_purchase_date_inApp,last_purchase_date_inApp,number_of_purchase_days_inApp,preferred_product_inApp,average_purchase_value_inApp
+user_id,total_purchase_app,purchase_count_app,first_purchase_date,last_purchase_date,purchase_days_count,most_purchased_product,avg_inapp_purchase_value
 272143,4.99,1,2024-03-01,2024-03-01,1,Gold,4.99
 272161,9.99,1,2024-04-15,2024-04-15,1,Gold,9.99
 272164,129.94,6,2024-04-15,2024-05-01,4,Gold,21.66

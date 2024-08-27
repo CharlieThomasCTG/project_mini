@@ -1,4 +1,4 @@
-user_id,total_spend_virtual,total_no_purchases_virtual,first_gold_spend_date_virtual,last_gold_spend_date_virtual,number_of_purchase_days_virtual,preferred_product_virtual,average_spend_per_purchase_virtual
+user_id,total_gold_spend,product_purchases_count,first_gold_spend_date,last_gold_spend_date,gold_purchase_days_count,most_purchased_virtual_product,average_spend_per_product
 272070,163,6,2024-03-17,2024-04-04,6,Weapon,27.17
 272071,27,2,2024-04-03,2024-04-12,2,Weapon,13.5
 272077,17,2,2024-03-23,2024-03-24,2,Weapon,8.5
